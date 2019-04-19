@@ -23,25 +23,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
+          <entry key="html" value="4" />
           <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="4" />
           <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="103" />
+          <entry key="html" value="166" />
           <entry key="py" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="103" />
+          <entry key="HTML" value="166" />
           <entry key="Python" value="150" />
         </counts>
       </usages-collector>
@@ -52,20 +52,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game_store/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
+            <state>
               <caret line="117" column="43" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/game_store/templates/gamelist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -87,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game_store/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="158" column="115" selection-start-line="158" selection-start-column="115" selection-end-line="158" selection-end-column="115" />
+            <state relative-caret-position="156">
+              <caret line="177" column="87" lean-forward="true" selection-start-line="177" selection-start-column="87" selection-end-line="177" selection-end-column="87" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -114,6 +105,15 @@
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game_store/templates/gamelist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="94" column="102" selection-start-line="94" selection-start-column="102" selection-end-line="94" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -149,6 +149,17 @@
             <path>
               <item name="game_store-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="game_store-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="game_store-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game_store-master" type="462c0819:PsiDirectoryNode" />
+              <item name="game_store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="game_store-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game_store-master" type="462c0819:PsiDirectoryNode" />
+              <item name="game_store" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,7 +276,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game_store/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
+        <state>
           <caret line="117" column="43" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
@@ -275,6 +286,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game_store/templates/login.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_store/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/game_store/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -287,34 +314,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game_store/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="158" column="115" selection-start-line="158" selection-start-column="115" selection-end-line="158" selection-end-column="115" />
+        <state relative-caret-position="156">
+          <caret line="177" column="87" lean-forward="true" selection-start-line="177" selection-start-column="87" selection-end-line="177" selection-end-column="87" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_store/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game_store/templates/gamelist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="296">
+          <caret line="94" column="102" selection-start-line="94" selection-start-column="102" selection-end-line="94" selection-end-column="102" />
         </state>
       </provider>
     </entry>
