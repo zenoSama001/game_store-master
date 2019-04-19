@@ -18,10 +18,11 @@
                 </div>
           </div>
         </article>
+        <article class="media content-section">
         {% if game.id == 1 %}
             <img src="https://vignette.wikia.nocookie.net/assassinscreed/images/6/6a/Accover.jpg/revision/latest?cb=20091222104717">
         {% endif %}
-    <small class="text-muted"><strong>Description:</strong>      {{ game.description }}    </small>
-
+        <small class="text-muted"><strong>Description:</strong>      {{ game.description }}    </small>
+        </article>
     {% endfor %}
 {% endblock content %}
